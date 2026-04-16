@@ -9,3 +9,6 @@ calculator, number guess game, exam
 eligibility checker and BMI calculator. 
 Completed if/elif/else. Only 2 mistakes 
 in BMI - self fixed!
+- **April 16:** Solved 3 problems - 
+temperature converter, odd/even checker, 
+highest mark finder using loops + list + dict
