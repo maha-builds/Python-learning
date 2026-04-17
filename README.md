@@ -12,3 +12,6 @@ in BMI - self fixed!
 - **April 16:** Solved 3 problems - 
 temperature converter, odd/even checker, 
 highest mark finder using loops + list + dict
+- **April 17:** Completed 10 loop 
+problems - for, while, break, list, 
+dict, nested loops. CS50P Week 2 done!
