@@ -15,3 +15,7 @@ highest mark finder using loops + list + dict
 - **April 17:** Completed 10 loop 
 problems - for, while, break, list, 
 dict, nested loops. CS50P Week 2 done!
+- **April 18:** Completed 4 mini 
+projects - Todo list, Student report,
+ATM, Grocery bill. while/for/list/dict 
+all clear!
