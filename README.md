@@ -19,3 +19,6 @@ dict, nested loops. CS50P Week 2 done!
 projects - Todo list, Student report,
 ATM, Grocery bill. while/for/list/dict 
 all clear!
+- **April 19:** CS50P Week 3 - 
+Exceptions complete! try, except, 
+ValueError, pass all clear! 🎯
