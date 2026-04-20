@@ -22,3 +22,4 @@ all clear!
 - **April 19:** CS50P Week 3 - 
 Exceptions complete! try, except, 
 ValueError, pass all clear! 🎯
+• April 20: Simple calculator with exception handling (ValueError, ZeroDivisionError) completed.
