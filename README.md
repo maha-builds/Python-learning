@@ -23,3 +23,5 @@ all clear!
 Exceptions complete! try, except, 
 ValueError, pass all clear! 🎯
 - **April 20:** Simple calculator with exception handling (ValueError, ZeroDivisionError) completed.
+- **April 21:** Exceptions practice - 
+bank withdrawal, calculator projects done!
